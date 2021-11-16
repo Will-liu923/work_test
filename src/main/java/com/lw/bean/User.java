@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @className: User
- * @description: TODO 类描述
+ * @description: 测试bean的使用
  * @author: wei.liu2mars@outlook.com  lw
  * @date: 2021/11/10 16:45
  **/
