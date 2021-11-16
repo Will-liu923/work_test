@@ -7,7 +7,8 @@ package com.lw.constant;
  **/
 public enum BaseResult {
     SUCCESS("1000","success"),
-    FAIL("-1","error")
+    FAIL("-1","error"),
+    UNKNOWN("-2","other error")
     ;
 
     private String code;
