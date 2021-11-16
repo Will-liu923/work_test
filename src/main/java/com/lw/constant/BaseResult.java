@@ -6,7 +6,7 @@ package com.lw.constant;
  * @date: 2021/11/16 10:35
  **/
 public enum BaseResult {
-    SUCCESS("0","success"),
+    SUCCESS("1000","success"),
     FAIL("-1","error")
     ;
 
