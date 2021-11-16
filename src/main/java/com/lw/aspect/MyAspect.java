@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import java.util.Arrays;
 
 /**
- * @className: MyAspect
+ * @className: MyAspect SpringBoot整合AOP面向切面编程
  * @author: wei.liu2mars@outlook.com  lw
  * @date: 2021/11/15 10:29
  **/

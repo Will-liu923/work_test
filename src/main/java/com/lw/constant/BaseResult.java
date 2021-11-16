@@ -6,6 +6,10 @@ package com.lw.constant;
  * @date: 2021/11/16 10:35
  **/
 public enum BaseResult {
+    /*
+    需要自定义如下枚举值，前提条件是需要定义有参构造函数
+    枚举值必须放在枚举类的最前方位置
+     */
     SUCCESS("1000","success"),
     FAIL("-1","error"),
     UNKNOWN("-2","other error")
