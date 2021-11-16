@@ -10,11 +10,10 @@ import java.util.Arrays;
 
 /**
  * @className: MyAspect
- * @description: TODO 类描述
  * @author: wei.liu2mars@outlook.com  lw
  * @date: 2021/11/15 10:29
  **/
-@Aspect
+@Aspect //需要配合@Configuration注解，@Aspect才能生效
 @Configuration
 public class MyAspect {
 
